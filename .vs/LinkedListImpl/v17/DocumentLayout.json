@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\LinkedListImpl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|f:\\dotnetprogramss\\linkedlistimpl\\linkedlistimpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|solutionrelative:linkedlistimpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|f:\\dotnetprogramss\\linkedlistimpl\\linkedlistimpl\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|solutionrelative:linkedlistimpl\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|f:\\dotnetprogramss\\linkedlistimpl\\linkedlistimpl\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1801445F-5170-4A20-9F4B-2240B57972C1}|LinkedListImpl\\LinkedListImpl.csproj|solutionrelative:linkedlistimpl\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedListImpl\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\Program.cs",
+              "RelativeToolTip": "LinkedListImpl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:14:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedListImpl\\Node.cs",
+              "ToolTip": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\Node.cs",
+              "RelativeToolTip": "LinkedListImpl\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:14:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\LinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListImpl\\LinkedList.cs",
+              "ToolTip": "F:\\DotNetProgramss\\LinkedListImpl\\LinkedListImpl\\LinkedList.cs",
+              "RelativeToolTip": "LinkedListImpl\\LinkedList.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwHsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:00:58.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
